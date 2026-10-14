@@ -3,5 +3,8 @@
   "app_contact_support": "6281936242236",
   "force_update": false,
   "lock_app": false,
-  "lock_message": ""
+  "lock_message": "",
+  "announcement_title": "Fitur Baru Tersedia",
+  "announcement_message": "Kini tersedia fitur kelola stok batch yang lebih lengkap. Tap Selengkapnya untuk panduan penggunaan.",
+  "announcement_url": "https://mangkasir.com"
 }
