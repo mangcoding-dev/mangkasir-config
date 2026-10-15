@@ -4,7 +4,7 @@
   "force_update": false,
   "lock_app": false,
   "lock_message": "",
-  "announcement_title": "Fitur Baru Tersedia",
-  "announcement_message": "Kini tersedia fitur kelola stok batch yang lebih lengkap. Tap Selengkapnya untuk panduan penggunaan.",
-  "announcement_url": "https://mangkasir.com"
+  "announcement_title": "",
+  "announcement_message": "",
+  "announcement_url": ""
 }
