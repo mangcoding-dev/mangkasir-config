@@ -4,9 +4,9 @@
   "force_update": false,
   "lock_app": false,
   "lock_message": "",
-  "announcement_title": "",
-  "announcement_message": "",
-  "announcement_url": "",
+  "announcement_title": "Maintanance akan dilakukan pada jam 23.59 malam hari ini",
+  "announcement_message": "Pastikan tidak melakukan transaksi pada waktu tersebut",
+  "announcement_url": "https://youtu.be/b87dBaL4qI0?si=Eo12oe-94ZzOnW45",
   "locked_store_ids": [],
   "locked_user_ids": []
 }
